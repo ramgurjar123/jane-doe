@@ -1,0 +1,112 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+.pic img {height:100vh ;  position: fixed; width: 42%;}
+.main {color: rgb(144, 119, 119);}
+.main2 {display: flex;}
+.pic{width: 42%;}
+.right {width: 58%; margin-left: 20px;}
+a {text-decoration: none;}
+.section1 h1 {padding-bottom: 10px; font-size: 300%;}
+.section1 p {padding-bottom: 10px; color:rgb(187, 169, 169);}
+.section1 a{color: rgb(100, 72, 72); background-color: rgb(219, 204, 204); width: 25px; height: 10px; padding: 10px;}
+
+.section2 h1 { color: rgb(188, 165, 165);margin-bottom: 12px;}
+
+
+.menu a {display: flex; justify-content: end; position: fixed;right: 0px;}
+.main2 { }
+
+.main {display: flex;}
+
+
+
+.section1  { text-align: center; padding: 10rem; line-height: 3rem;}
+
+
+
+.div1 img {width: 420px; height: 300px;}
+.div2 img {width: 420px; height: 240px;}
+
+.about { width: 90%; padding: 50px 0px; color: rgb(102, 79, 79); }
+
+.ram1  h1{ margin:25px 0px; }
+.ram {margin: 25px 0px;  }
+
+.raj1 {background-color: dimgrey; width: 860px; text-align: center;  height: 40px;}
+.raj1 p {background-color: aqua;width: 730px; margin: 15px 0px; text-align: center; height: 40px; padding-top: 15px;}
+.raj2 {background-color: dimgrey; width: 860px; text-align: center; margin: 15px 0px; height: 40px;}
+.raj2 p {background-color: aqua;width: 710px; text-align: center; height: 40px; padding-top: 15px;}
+.raj3 {background-color: dimgrey; width: 860px; text-align: center; margin: 15px 0px; height: 40px;}
+.raj3 p {background-color: aqua;width: 800px; text-align: center; height: 40px; padding-top: 15px;}
+
+
+
+/* .mat {   margin-top: 25px; background-color: rgb(128, 74, 74); color: white; width: 860px;  height: 95px;  text-align: center; margin: 55px 0px; height: 120px;  align-items: center;  } */
+
+.mat1 {display: flex; justify-content: space-around; align-items: center;}
+.mat2 {display: flex; justify-content: space-around; align-items: center; }
+.mat {background-color: rgb(128, 74, 74); color: white;margin: 50px 0px
+    ; padding: 50px 0px;}
+
+
+.dow  { margin: 25px 0px;}
+.dow a {background-color: rgb(167, 138, 138); color: white; padding: 10px;}
+
+
+.tion {margin-bottom: 25px; }
+.dive img {height: 70px; width: 70px; border-radius: 50%;}
+
+.dive {display: flex;   }
+.dive img {margin: 20px 0px;}
+.all {display: flex; }
+.all  h4  {margin-left: 10px;}
+.diva {line-height: 30px; margin: 20px 0px;   }
+.all h3 { width: 120px; text-align: center;}
+
+.basic {display: flex; justify-content: space-between;}
+
+.basic ul{list-style: none;}
+
+.basic li {width: 430px; border: 1px solid; text-align: center; padding: 10px 0px;}
+
+.basic1 li:first-of-type{
+    background-color: gainsboro; height: 80px; padding-top: 30px;
+}
+.basic2 li:first-of-type{
+    background-color: black;
+    color: white;  height: 80px; padding-top: 30px;
+}
+.basic1 li:last-of-type,.basic2 li:last-of-type{height: 80px; padding-top: 30px;
+    background-color: rgb(165, 159, 159);
+}
+
+.basic1 li:nth-child(6), .basic2 li:nth-child(6){
+    height: 70px;
+}
+
+.mail {margin: 40px 0px;}
+
+.mail1 a{  display: inline-block; padding: 1rem 0rem; font-size: 20px; color: rgb(117, 112, 112);}
+
+.map img {width: 98%;}
+
+.form  input{width: 90%; padding: 5px 0px; margin: 10px 0px;  padding-left: 5px; padding: 15px;}
+
+.h2 h2 {margin: 10px 0px; color: rgb(120, 105, 105);}
+
+.send a { width: 180px; display: inline-block; text-align: center; margin: 10px 0px; font-size: 150%; color: rgb(67, 41, 41);
+background-color: rgb(187, 165, 165);
+}
+
+
+.pooja {background-color: rgb(169, 148, 148); color: rgb(23, 18, 18); height: 100px; text-align: center; padding-top: 30px; margin-top: 50px;}
+
+
+
+
+
+
+
+
+
+
+
